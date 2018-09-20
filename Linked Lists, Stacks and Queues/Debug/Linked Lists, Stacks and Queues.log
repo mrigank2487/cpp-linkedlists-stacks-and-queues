@@ -1,0 +1,17 @@
+﻿Build started 11-09-2016 18:24:20.
+     1>Project "C:\Users\Sandeep\Desktop\Programs\12th\Linked Lists, Stacks and Queues\Linked Lists, Stacks and Queues\Linked Lists, Stacks and Queues.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Linked Lists, Stacks and Queues.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Linked Lists, Stacks and Queues.vcxproj -> C:\Users\Sandeep\Desktop\Programs\12th\Linked Lists, Stacks and Queues\Debug\Linked Lists, Stacks and Queues.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Linked Lists, Stacks and Queues.unsuccessfulbuild".
+         Touching "Debug\Linked Lists, Stacks and Queues.lastbuildstate".
+     1>Done Building Project "C:\Users\Sandeep\Desktop\Programs\12th\Linked Lists, Stacks and Queues\Linked Lists, Stacks and Queues\Linked Lists, Stacks and Queues.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14
